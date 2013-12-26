@@ -1,0 +1,3 @@
+<div class="center">
+	Voici la version de handi report n°....
+</div>
